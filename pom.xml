@@ -1,0 +1,16 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.fleet</groupId>
+    <artifactId>fleet-platform</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+
+        <module>fleet-platform</module>
+    </modules>
+
+    <dependencies>
+        <!-- Common dependencies -->
+    </dependencies>
+</project>

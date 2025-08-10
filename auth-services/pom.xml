@@ -8,7 +8,12 @@
 		<version>3.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fleet</groupId>
+    <modules>
+
+        <module>auth-services</module>
+    </modules>
+
+    <groupId>com.fleet</groupId>
 	<artifactId>auth-services</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>auth-services</name>
